@@ -6,3 +6,5 @@ Hello My name is Mikayla James and  I am  currently a sophomore at Buffalo State
 + CSS
 + C#
 
+# where to reach me 
+(Linkedin)[https://www.linkedin.com/in/mikayla-james-70b832271/]
